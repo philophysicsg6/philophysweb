@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.image{
+    text-align: center;
+  
+    
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    border: 3px black;
+    padding: 79px;
+    margin: 30px;
+    padding-right: 40px;
+    text-align: justify;
+}
+.content{
+   
+    color: rgb(0, 0, 0);
+   
+    background-color: transparent;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 300;
+    width: 90%;
+}

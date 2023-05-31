@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+    
+    
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    border: 3px black;
+    padding: 79px;
+    margin: 30px;
+    padding-right: 40px;
+    text-align: justify;
+}
+
+
+.content{
+   
+    color: rgb(0, 0, 0);
+   
+    background-color: transparent;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
+.image{
+    text-align: center;
+  
+    
+}
+table{
+    font-size: 20px;
+    font-weight: 300;
+    width: 90%;
+}
+.equation{
+    font-size: 20px;
+    align-content: center;
+}
+.imgee{
+    text-align: center;
+}
+p99{
+    font-size: 20px;
+    font-weight: 300;
+    width: 90%;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 300;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}

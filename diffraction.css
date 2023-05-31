@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.logo{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-family: Arial;
+    padding-left: 50px;
+    float: left;
+    padding-top: 10px;
+
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    border: 3px black;
+    padding: 79px;
+    margin: 30px;
+    padding-right: 40px;
+    text-align: justify;
+}
+.content{
+   
+    color: rgb(0, 0, 0);
+   
+    background-color: transparent;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 300;
+    width: 90%;
+}
+
+h1 {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+    font-weight: 300;
+    font-size: 40px;
+    color: #000000;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+  
+    text-align: left;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+  }
+
+
+p{
+    font-size: 20px;
+    font-weight: 300;
+  padding-bottom: 5px;
+}
+table{
+    font-size: 20px;
+    font-weight: 300;
+    width: 90%;
+    
+    
+}
+tr{
+    font-size: 20px;
+    font-weight: 300;
+}
+li{
+    padding-left: 15px;
+    font-size: 20PX;
+}
+.image{
+    text-align: center;
+  
+    
+}
+p1{
+    font-size: 20px;
+    font-weight: 300;
+  padding-bottom: 5px;
+}
+.imgee{
+    text-align: center;
+}
+.equation{
+    font-size: 20px;
+    align-content: center;
+}
+.equation2{
+    font-size: 20px;
+    
+}
+.imgee2{
+    text-align: center;
+}
+.imgee3{
+    text-align: center;
+}
+.imgee4{
+    text-align: center;
+}
+.imgee5{
+    text-align: center;
+}
+.imgee6{
+    text-align: center;
+}
